@@ -1,6 +1,9 @@
 public class testjava {
-    void c()
+    void bc()
     {
+        System.out.println("Method B action");
+        System.out.println("Method B ");
+        System.out.println("Method B action");
         System.out.println("Hello World");
     }
 
